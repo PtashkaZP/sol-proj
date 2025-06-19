@@ -1,7 +1,7 @@
 # sol-proj
 
 
-Project idea: "Decentralized Guestbook"
+Project idea: "Trip Planner"
 Concept: A webpage where any user can connect their Solana wallet (for example, Phantom) and leave a short message. All messages are stored forever on the Solana blockchain and are visible to everyone.
 
 Technical stack (What we need):
