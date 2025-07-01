@@ -2,7 +2,7 @@
 
 
 Project idea: "Trip Planner"
-Concept: checklist...
+Concept: checklist
 
 Technical stack (What we need):
 Smart contract (Program):
